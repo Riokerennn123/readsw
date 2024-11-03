@@ -1,0 +1,17 @@
+{
+  "name": "Sw By Wily Kun",
+  "version": "1.0.0",
+  "description": "Gabut buat fitur enggak guna :v",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js --pairing-code"
+  },
+  "author": "Wily Kun",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/boom": "latest",
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "readline": "latest"
+  }
+}
